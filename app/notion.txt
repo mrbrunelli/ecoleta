@@ -4,3 +4,18 @@ Recurso: Qual entidade estamos acessando do sistema
 Request Param: Parâmetros que vem na própria rota que identificam um recurso
 Query Param: Parâmetros que vem na própria rota, geralmente opcionais para filtros, paginação
 Request Body: Parâmetros para criação / atualização de informações
+
+Migrations: Histórico do banco de dados
+Executar no bash: npx knex --knexfile knexfile.ts migrate:latest
+A vantagem de se utilizar migrations é que uma vez criado o banco, ele pode ser replicado em qualquer outro ambiente, basta rodar o knex:migrate.
+Atualmente eu uso todo o banco de dados no Docker, e faço o mesmo. Eu crio uma imagem que quando sobe ela já cria o banco sozinha.
+
+Padrão para nomes de métodos:
+index: listagem
+show: exibir único
+create, store: criar novo
+delete, destroy: deletar
+
+Abstrarir mais os controllers. Estudar sobre:
+Service Pattern
+Repository Pattern (Data Mapper)
