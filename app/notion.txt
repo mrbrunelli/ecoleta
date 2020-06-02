@@ -1,0 +1,6 @@
+Rota: Endereço completo da requisição
+Recurso: Qual entidade estamos acessando do sistema
+
+Request Param: Parâmetros que vem na própria rota que identificam um recurso
+Query Param: Parâmetros que vem na própria rota, geralmente opcionais para filtros, paginação
+Request Body: Parâmetros para criação / atualização de informações
