@@ -4,27 +4,13 @@
     <b>Aplicação para cadastrar pontos de coletas de resíduos.</b>
 </h3>
 
-<div style="display: flex; justify-content: center; align-items:center; margin: 80px 0 20px 0;">
-<img src="https://avatars2.githubusercontent.com/u/54479807?s=460&u=4123df38126675a14f7d40e9eaeca5ab15f55545&v=4" 
-width="80"
-style="border-radius: 50px; box-shadow: 0px 1px 10px 0"
->
-<span style="margin-left: 20px">
-<strong>Matheus Ricardo Brunelli</strong>
-<p>Analista de Sistemas | <a href="https://grupogazin.com.br/" target="_blank">Grupo Gazin</a></p>
-
-
-
-<span>
-</div>
-
-<center style="margin-bottom: 80px">
+<center>
 
 ![](https://img.shields.io/twitter/follow/mrbrunelli_?style=social) ![](https://img.shields.io/github/last-commit/mrbrunelli/ecoleta?style=social) ![](https://img.shields.io/github/repo-size/mrbrunelli/ecoleta?style=social) ![](https://img.shields.io/github/languages/top/mrbrunelli/ecoleta?style=social)
 
 </center>
 
-<center style="margin-bottom: 80px">
+<center>
 
 ## Sobre
 
