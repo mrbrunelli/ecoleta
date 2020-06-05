@@ -1,0 +1,9 @@
+JSX: Sintaxe de XML dentro do JavaScript
+
+Todo componente deve começar com letra maiúscula.
+
+Sempre que criarmos um Array ou Objeto, precisamos informar manualmente o tipo da variável
+
+Método includes() verifica um valor dentro do array
+Nesse caso eu quero verificar se o número 5 está dentro do array. Caso esteja ele retornará true.
+array.includes(5)
