@@ -4,13 +4,13 @@
     <b>Aplicação para cadastrar pontos de coletas de resíduos.</b>
 </h3>
 
-<center>
+<span align="center">
 
 ![](https://img.shields.io/twitter/follow/mrbrunelli_?style=social) ![](https://img.shields.io/github/last-commit/mrbrunelli/ecoleta?style=social) ![](https://img.shields.io/github/repo-size/mrbrunelli/ecoleta?style=social) ![](https://img.shields.io/github/languages/top/mrbrunelli/ecoleta?style=social)
 
-</center>
+</span>
 
-<center>
+<span align="center">
 
 ## Sobre
 
@@ -18,7 +18,7 @@ O **Ecoleta** é uma aplicação Web e Mobile para ajudar pessoas a encontrarem 
 
 Essa aplicação foi construída na trilha **Booster** da **Next Level Week** distribuída pela **[Rocketseat](https://rocketseat.com.br/)** :rocket:. A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da semana do meio ambiente.
 
-</center>
+</span>
 
 ## :rocket: Tecnologias Utilizadas
 - [x] :zap: **TypeScript**
@@ -26,7 +26,7 @@ Essa aplicação foi construída na trilha **Booster** da **Next Level Week** di
 - [x] :zap: **ReactJS**
 - [x] :zap: **React Native**
 
-<center style="margin-top: 80px">
+<span align="center">
 
 ## ScreenShots da Aplicação
 
@@ -34,4 +34,4 @@ Essa aplicação foi construída na trilha **Booster** da **Next Level Week** di
 ![](https://i.ibb.co/PYrx7fG/ecoleta2.png)
 ![](https://i.ibb.co/37VC8YX/ecoleta3.png)
 
-</center>
+</span>
