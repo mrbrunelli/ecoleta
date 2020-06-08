@@ -19,3 +19,5 @@ delete, destroy: deletar
 Abstrarir mais os controllers. Estudar sobre:
 Service Pattern
 Repository Pattern (Data Mapper)
+
+Estudar sobre Serialização e API Transform

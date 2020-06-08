@@ -7,3 +7,10 @@ Sempre que criarmos um Array ou Objeto, precisamos informar manualmente o tipo d
 Método includes() verifica um valor dentro do array
 Nesse caso eu quero verificar se o número 5 está dentro do array. Caso esteja ele retornará true.
 array.includes(5)
+
+Forma de renderização condicional
+{
+isDragActive ?
+    <p>Drop the files here ...</p> :
+    <p>Drag 'n' drop some files here, or click to select files</p>
+}
